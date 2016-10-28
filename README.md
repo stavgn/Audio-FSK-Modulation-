@@ -11,3 +11,6 @@ You can then playback the file in any media player software.
 default bitrate (can be changed):
   5 b/s (bits per second)
 
+dependencies:
+make sure you have NumPy, SciPy and Matplotlib installed.
+(MiniConda is recommended to install these).
